@@ -12,3 +12,9 @@ run the example by
 cd libclang-experiments-py
 python clangParse.py ct.m
 ```
+You should see the ouput
+```
+ct.m
+[]
+```
+If there are some errors in ct.m, it will be displayed inside `[]`
